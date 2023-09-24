@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "68524859016",
+    "project_id": "dinnerplanner-a0555",
+    "storage_bucket": "dinnerplanner-a0555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68524859016:android:fee7c11a77ceb812fa093d",
+        "android_client_info": {
+          "package_name": "com.example.dinnerplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68524859016-81fn727rr1u14a4kh8b68ls0mqqhn6p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJNJR59c1NiSOElNUdqXhUnuB0Q8UbS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68524859016-81fn727rr1u14a4kh8b68ls0mqqhn6p0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68524859016-r3dn744nrcf53qlitun6t31koiicamib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dinnerplanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
